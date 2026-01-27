@@ -1,6 +1,6 @@
 const accountId= 122344
-let accountEmail= "abcds@gmail.com";
-var accountPassword="1233455";
+let accountEmail= "abcds@gmail.com";//string
+var accountPassword=1233455;
 accountcity= "mumbai";
 let name;
 var add
